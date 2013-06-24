@@ -1,5 +1,5 @@
 === Tweets Rotator 2013 ===
-Contributors: sabir Abdul Gafoor
+Contributors: sabirtiger
 Donate link: http://themefantasy.com/plugins/
 Tags: twitter tweets, animation tweets, twitter feed
 Requires at least: 2.0.2
@@ -13,7 +13,7 @@ Tested up to: 3.5.1.
 
 Tweets Rotator 2013 :- A widget that allows you to display the tweets. Add your Twitter feed to your sidebar with this widget
 
-
+Live running examples : http://themefantasy.com/blog/
 
 
 == Installation ==
