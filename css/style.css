@@ -1,0 +1,83 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+.als-viewport {
+	position: relative;
+	overflow: hidden;
+	margin: 0px auto;
+}
+
+.als-wrapper {
+	position: relative;
+	list-style: none;
+}
+
+li {
+}
+
+
+
+/************************
+ * specific als element
+ * styling for #lista2
+ ***********************/
+
+
+#tweets li,#tweets ul li {
+	margin: 10px 0px;
+	height:auto;
+		position: relative;
+	display: block;
+	cursor: pointer;
+
+
+	}
+
+#tweets li img {
+	position: relative;
+	display: block;
+	vertical-align: middle;
+	margin-bottom: 8px;
+}
+
+#tweets .als-prev, #tweets .als-next {
+	left: 470px;
+	width: 22px;
+	height: 15px;
+}
+
+#tweets .als-prev {
+	top: -25px;
+}
+
+#tweets .als-next {
+	bottom: -20px;
+}
+
+#lista2 li {
+	vertical-align: middle;
+}
+
+#tweets li {
+background: url(../image/twitter-bird-blue-on-white.png) no-repeat 0 1px !important;
+display: block !important;
+padding:0px 4px 0px 22px !important;
+}
+.tweet {
+margin-bottom:0px !important;
+
+}
+.widget_sabby_twitter {
+
+	background-image:url(../images/plugin_twitter_bg.png);
+	background-position:center;
+	background-repeat:no-repeat;
+}
+
+.timePosted {
+	background: url(../images/twitter_bird.png) no-repeat 0 4px !important;
+	padding-left: 21px;
+    padding-bottom: 0px;
+   
+}
